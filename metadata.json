@@ -1,0 +1,7 @@
+{
+  "name": "GeoVid AI Studio",
+  "description": "An application to generate stunning videos with Veo and get location-based insights with Google Maps grounding. Upload your videos, use prompts, and leverage Google Maps for accurate, real-time information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
